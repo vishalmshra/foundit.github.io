@@ -1,0 +1,18 @@
+.bg{
+  background-color: rgb(162, 10, 255);
+}
+
+.br{
+  border-radius: 30px;
+}
+
+.bg_color{
+    background-color:   gainsboro;
+    color: rgb(162, 10, 255);
+    font-size: 17px;
+    margin: 10px;
+    padding: 12px;
+}
+.bg_bg{
+    background-color: #fff8eb;
+}
